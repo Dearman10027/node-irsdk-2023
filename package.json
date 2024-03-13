@@ -1,5 +1,5 @@
 {
-  "name": "node-irsdk-2023",
+  "name": "node-irsdk-2024",
   "version": "0.0.3",
   "description": "iRacing SDK implementation for nodejs",
   "main": "src/node-irsdk.js",
@@ -15,6 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "js-yaml": "^4.1.0",
-    "nan": "^2.17.0"
+    "nan": "^2.19.0"
   }
 }
