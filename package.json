@@ -1,6 +1,6 @@
 {
   "name": "node-irsdk-2024",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "iRacing SDK implementation for nodejs",
   "main": "src/node-irsdk.js",
   "scripts": {
